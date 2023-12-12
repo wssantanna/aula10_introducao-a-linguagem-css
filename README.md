@@ -10,7 +10,9 @@ Esperamos nessa atividade estimular o aluno a compreensão da sintaxe da linguag
 
 Com base no [código-fonte](./atividade/), estilize o documento, conforme a imagem a seguir:
 
-- [ ] Incorpore o documento style.css no documento HTML index.html.
+![Interface da atividade](./imagens/1.png)
+
+- [ ] Incorpore o documento `style.css` no documento HTML `index.html`.
 
 ## Lista de propriedades
 
