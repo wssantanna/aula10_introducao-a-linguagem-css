@@ -1,0 +1,36 @@
+
+.produto {
+    border: 1px solid lightgray;
+}
+
+.cabecalho {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+
+.preco {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.condicao {
+    font-weight: lighter;
+}
+
+.imagem {
+    width: 100%;
+    border: 1px solid lightgray;
+}
+
+.botao {
+    background-color: gray;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 10px 25px;
+}
