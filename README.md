@@ -1,0 +1,33 @@
+# Mesa de trabalho
+
+## Proposta 
+
+Esperamos nessa atividade estimular o aluno a compreensão da sintaxe da linguagem CSS e compreender o conceito de especificidade.
+
+## Instruções
+
+### Atividade
+
+Com base no [código-fonte](./atividade/), estilize o documento, conforme a imagem a seguir:
+
+- [ ] Incorpore o documento style.css no documento HTML index.html.
+
+## Lista de propriedades
+
+| Propriedade      | Descrição                                                             |
+|------------------|-----------------------------------------------------------------------|
+|`font-family`     | Define a família de fontes que serão utilizadas pelo elemento(s)      |
+|`font-size`       | Define o tamanho da fonte/texto do(s) elemento(s)                     |
+|`color`           | Define a cor da fonte/texto do(s) elemento(s)                         |
+|`text-align`      | Define o alinhamento do(s) texto(s) do(s) elemento(s)                 |
+|`text-decoration` | Define a decoração do texto do(s) elemento(s)                         |
+|`border`          | Define a espessura, tipo e cor da borda do(s) elemento(s)             |
+|`border-radius`   | Define o arredondamento das bordas do(s) elemento(s)                  |
+|`margin`          | Define o espaçamento externo do(s) elemento(s)                        |
+|`padding`         | Define o espaçamento interno do(s) elemento(s)                        |
+|`width`           | Define a largura do(s) elemento(s)                                    |
+|`height`          | Define a altura do(s) elemento(s)                                     |
+
+## Conclusão
+
+Espero que tenha curtido implementar a semântica do documento. Na próxima aula abordaremos fundamentos da seleção utilizando CSS.
