@@ -1,6 +1,45 @@
 
-/* 
-    
-    Com base no código-fonte do documento HTML
-    index.html, implemente a estilização.
-*/
+.cartao {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color:lightblue;
+   
+
+
+}
+
+.cartao__cabecalho {
+    background-color:lightblue;
+
+}
+
+.titulo {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 200px;
+
+}
+
+.subtitulo {
+    font-size: 16px;
+    text-align: left;
+    padding-left: 200px;
+
+}
+
+.cartao__imagem {
+    width: 55%;
+    border: 3px solid lightblue;
+    border-radius: 20px;
+
+
+}
+
+.botao-primario {
+    background-color: black;
+    color: aliceblue;
+    width: 280px;
+    height: 35px;
+    border-radius: 5px;
+
+}
